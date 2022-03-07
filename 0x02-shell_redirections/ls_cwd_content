@@ -1,0 +1,15 @@
+total 52
+drwxrwxr-x 2 carol carol 4096 Bit  7 12:02 .
+drwxrwxr-x 6 carol carol 4096 Bit  6 10:27 ..
+-rwxrw-r-- 1 carol carol   38 Bit  7 10:08 0-hello_world
+-rwxrw-r-- 1 carol carol   31 Bit  7 10:26 1-confused_smiley
+-rwxrw-r-- 1 carol carol   28 Bit  7 10:59 2-hellofile
+-rwxrw-r-- 1 carol carol   39 Bit  7 11:11 3-twofiles
+-rwxrw-r-- 1 carol carol   29 Bit  7 11:21 4-lastlines
+-rwxrw-r-- 1 carol carol   29 Bit  7 11:26 5-firstlines
+-rwxrw-r-- 1 carol carol   28 Bit  7 11:32 6-third_line
+-rwxrw-r-- 1 carol carol   79 Bit  7 11:58 7-file
+-rwxrw-r-- 1 carol carol   36 Bit  7 12:02 8-cwd_state
+-rw-rw-r-- 1 carol carol   12 Bit  7 11:58 \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
+-rw-rw-r-- 1 carol carol    0 Bit  7 12:02 ls_cwd_content
+-rw-rw-r-- 1 carol carol   23 Bit  7 10:36 README.md
